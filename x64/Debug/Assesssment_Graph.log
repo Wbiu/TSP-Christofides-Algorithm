@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\biu\Documents\Assesssment_Graph\main.cpp(170,12): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\biu\Documents\Assesssment_Graph\main.cpp(242,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\biu\Documents\Assesssment_Graph\main.cpp(654,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\biu\Documents\Assesssment_Graph\main.cpp(655,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\biu\Documents\Assesssment_Graph\main.cpp(964,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\biu\Documents\Assesssment_Graph\main.cpp(990,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\biu\Documents\Assesssment_Graph\main.cpp(94): warning C4172: returning address of local variable or temporary: prevPair
+C:\Users\biu\Documents\Assesssment_Graph\rapidjson\internal\diyfp.h(104): warning C4793: 'rapidjson::internal::DiyFp::Normalize': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\biu\Documents\Assesssment_Graph\rapidjson\internal\diyfp.h(73): warning C4793: 'rapidjson::internal::DiyFp::operator*': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\Users\biu\Documents\Assesssment_Graph\rapidjson\internal\biginteger.h(251): warning C4793: 'rapidjson::internal::BigInteger::MulAdd64': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Assesssment_Graph.vcxproj -> C:\Users\biu\Documents\Assesssment_Graph\x64\Debug\Assesssment_Graph.exe
